@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GalleryApp</string>
+    <!--<string name="api_key"></string>-->
+    <string name="server_error">Error connecting to server</string>
+    <string name="image_details">Image Details</string>
+    <string name="likes">Likes  :</string>
+    <string name="views">Views    :</string>
+    <string name="comment">Comment :</string>
+    <string name="loading">Loading</string>
+</resources>
